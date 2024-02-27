@@ -14,4 +14,4 @@ You can find the full documentation on the [official website](https://paintui.to
 
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The MIT License (MIT). Please see [License File](LICENSE.MD) for more information.
