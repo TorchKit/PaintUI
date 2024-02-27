@@ -10,7 +10,7 @@ This project contains a collection of Laravel Blade and Laravel Livewire UI comp
 
 ## Documentation
 
-You can find the full documentation on the [official website](https://paintui.torchkit.co)
+You can find the full documentation on the [official website](https://paintui.torchkit.co).
 
 ## License
 
